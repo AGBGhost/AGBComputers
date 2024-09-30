@@ -1,0 +1,93 @@
+.body{
+    background-image: url("IMAGES/Neonwallpaper.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    background-color: #0000001a;
+    height: 100vh;
+     backdrop-filter: blur(5px);
+    
+}
+
+.box{
+    background-color: #000000d2;
+    width: 320px;
+    height: 100vh;
+    backdrop-filter: blur(5px);
+    
+   
+     
+}
+
+
+  
+  
+  .slidebar2  ul{
+    width: 100%;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: left;
+    padding: 20px 40px;
+    
+  }
+  
+  
+  .slidebar2 ul li{
+   padding: 10px;
+   
+  }
+  
+  .slidebar2 ul li a{
+    font-size: 19px;
+   padding: 8px ;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+  }
+  
+  .slidebar2 ul li a:hover{
+    color: #ffffff;
+    
+    
+  }
+    
+  .slidebar2 ul li:hover{
+    background:linear-gradient(120deg,#b300ff, #2980b9);
+    border-radius: 14px;
+    transition: 0.4s;
+    
+  }
+
+  .logo {
+    margin-left: 25%;
+  }
+
+  .bar{
+    height: 1px;
+    background:linear-gradient(120deg,#b300ff, #2980b9);
+  }
+
+
+  .info{
+    background-color: #ffffff07;
+    height: 100vh;
+    margin-left: 320px;
+    padding: 20px;
+   
+    
+  }
+
+  .text{
+    border-radius: 10px;
+    background:linear-gradient(120deg,#b300ff, #2980b9);
+    padding: 10px;
+    
+  }
+
+  .table{
+    border-radius: 10px;
+    background-color: #ffffffb6;
+  }

@@ -1,0 +1,190 @@
+.top{
+    padding-top: 156px;
+}
+
+
+
+
+
+.box{
+    
+
+    
+        background:linear-gradient(120deg,#fdfdfd57, #00000000);
+        height: 60px;
+        width: 100%;
+        
+       
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.title a{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-left: 40px;
+    font-weight: 400;
+
+}
+
+.title a:hover{
+color: white;
+}
+
+
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    
+}
+
+
+
+
+
+
+.card1{
+    padding: 20px 10px;
+}
+
+.card2{
+    height: 570px;
+    width: 310px;
+    background:linear-gradient(120deg,#b300ff5d,#297fb95d );
+    border-radius: 10px;
+    position: relative;
+    display:grid;
+    
+    justify-content: center;
+}
+
+.card2:hover{
+    background-color: rgba(255, 255, 255, 0.185);
+    
+    width: 315px;
+    transition: 0.3s;
+}
+
+
+.big-img a{
+    width: 280px;
+    
+    
+   
+}
+
+
+.big-img img {
+    width: inherit;
+}
+
+.info{
+    position: relative;
+    display:grid;
+    justify-content: center;
+    margin-top: -60px;
+    background-color: #00000060;
+    border-radius: 10px;
+    
+}
+
+.card-title {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 650;
+}
+
+.card-instock{
+    color: rgb(255, 251, 0);
+    font-size: 15px;
+}
+
+.card-outstock{
+    color: rgb(255, 0, 0);
+    font-size: 16px;
+}
+
+.card-price {
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.btn{
+    background-color: aliceblue;
+}
+
+
+
+.pagination{
+   background: linear-gradient(120deg,#b300ff,#2980b9 );
+   border-radius: 10px;
+   padding-right: 35px;
+}
+
+.pagination-items{
+    color: white;
+    
+}
+
+.pagination-items:hover{
+    color: rgb(5, 5, 5);
+    
+}
+
+.pagination-items li{
+    display: inline-block;
+    padding: 12px 15px;
+    font-weight: 700;
+    
+}
+
+
+
+.pagination-items li:hover{
+    background: rgba(255, 255, 255, 0.692);
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.lastbox{
+     
+ background:linear-gradient(120deg,#b300ff,#2980b9 );
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
